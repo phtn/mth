@@ -6,7 +6,7 @@ import { Navbar } from './_components/navbar'
 const inter = Onest({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
-  title: 'Melbourne Talent Hib',
+  title: 'Melbourne Talent Hub',
   description: 'Global Talent Empowerment',
 }
 
